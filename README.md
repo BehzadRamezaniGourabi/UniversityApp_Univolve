@@ -78,7 +78,7 @@ This project was developed as a submission for the Mobile Development 1 course a
 It was a remarkable experience to serve as the team lead, collaborating with talented classmates:
 
 - [Devind Dev](https://www.linkedin.com/in/devindxdev/)
-- [Yangzi Pasang Sherpa](https://www.linkedin.com/in/pasang-sherpa-012a5a2b1/)
+- [Pasang Yangji Sherpa](https://www.linkedin.com/in/pasang-sherpa-012a5a2b1/)
 - [Jimil Hingu](https://www.linkedin.com/in/jimil-hingu-403b54276/)
 - [Behzad Ramezani Gourabi](https://www.linkedin.com/in/behzad-ramezani/)
 - [Gursahib Singh](https://www.linkedin.com/in/gursahibsingh07/)
